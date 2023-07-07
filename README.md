@@ -7,7 +7,7 @@
   <img src="https://media3.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif?cid=ecf05e473mdc89g3gxbor2ky4pg2ibnjkzfiwk3x1024jjgl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300"/>
 </div>
 <div>
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning  and working on **MERN** stack
 
 - 👨‍💻 All of my projects are available at [https://github.com/anweshabanerjee10](https://github.com/anweshabanerjee10)
 
